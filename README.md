@@ -16,6 +16,12 @@ Core practice is to implement the Backpropagation Algorithm and understand the f
 * data.py : Preprocessing the data.
 * gui.py : Initial the GUI and do some control character.
 
+## Environment
+
+* python 3.6.3
+* matplotlib 2.1.0
+* numpy 1.13.3
+
 ## Usage
 
 [Usage](https://www.dropbox.com/s/8hw82854aem1irh/Usage.pdf?dl=0)
